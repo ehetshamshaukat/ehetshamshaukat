@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **tensorflow,pytorch**
 
-- 💬 Ask me about **Data Science,Machine learning, Model deployment, cicd**
+- 💬 Ask me about **Data Science,Machine learning, Model deployment, CI/CD**
 
 - 📫 How to reach me **Ehetsham.s@gmail.com**
 
